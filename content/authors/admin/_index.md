@@ -121,7 +121,7 @@ skills:
         percent: 100
         icon: 
       - name: Cats
-       description: ''
+        description: ''
         percent: 100
         icon: cat
       - name: Photography
