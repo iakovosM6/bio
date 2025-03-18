@@ -40,12 +40,12 @@ profiles:
     url: linkedin.com/in/iakovos-m-862375150
 
 education:
-  - area: PhD in Politics, 2025 (expected)
+  - area: Ph.D. in Politics, 2025 (expected)
     institution: University of Strathclyde
     date_start: 
     date_end: 
     summary: |
-      Ph.D. Thesis: The Eﬀects of Political Careers on Party and Voter Congruence. Supervised by [Dr. Wolfgang Rüdig](https://www.strath.ac.uk/staff/r%C3%BCdigwolfgangdr/) 
+      Ph.D. Thesis: The Eﬀects of Political Careers on Party and Voter Congruence Supervised by [Dr. Wolfgang Rüdig](https://www.strath.ac.uk/staff/r%C3%BCdigwolfgangdr/) and [Dr. Zachary Greene](https://www.strath.ac.uk/staff/greenezacharydr/) 
    # button:
     #  text: 'Read Thesis'
     #  url: 'https://example.com'
