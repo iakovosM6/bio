@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ph.D.
+title: 
 
 # Name pronunciation (optional)
 name_pronunciation: Iakovos Makropoulos
