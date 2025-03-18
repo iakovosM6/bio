@@ -119,7 +119,7 @@ skills:
       - name: Greek
         description: ''
         percent: 100
-        icon: 
+        icon: Greece
       - name: Cats
         description: ''
         percent: 100
