@@ -98,20 +98,28 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Statistical and Computer Skills
+  - name: 
     items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: devicon/python
       - name: RStudio
         description: ''
         percent: 100
         icon: devicon/rstudio
-      - name: PyTorch
+     - name: STATA
         description: ''
-        percent: 40
-        icon: devicon/pytorch
+        percent: 100
+        icon: devicon/stata
+      - name: Python
+        description: ''
+        percent: 75
+        icon: devicon/python
+      - name: SPSS
+        description: ''
+        percent: 100
+        icon: devicon/spss
+      - name: LaTeX
+        description: ''
+        percent: 100
+        icon: devicon/latex
   #- name: Languages
    # color: '#eeac02'
    # color_border: '#f0bf23'
