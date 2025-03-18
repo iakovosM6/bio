@@ -17,27 +17,27 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: Postdoctoral Research Assistant
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: GenCoin
-    url: https://www.example.com/
+  - name: Queen Mary University of London
+    url: https://www.qmul.ac.uk/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:i.makropoulos@qmul.ac.uk'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://x.com/IAMakropoulos  
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/iakovosM6
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: linkedin.com/in/iakovos-m-862375150
+  - icon: brands/bluesky
+    url: https://bsky.app/profile/makropoulos.bsky.social
 
 education:
   - area: PhD Artificial Intelligence
