@@ -45,7 +45,7 @@ education:
     date_start: 
     date_end: 2025-04-10
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Ph.D. Thesis: The Eﬀects of Political Careers on Party and Voter Congruence. Supervised by [Dr. Wolfgang Rüdig](https://www.strath.ac.uk/staff/r%C3%BCdigwolfgangdr/) 
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
