@@ -104,7 +104,7 @@ skills:
         description: ''
         percent: 100
         icon: devicon/rstudio
-     - name: STATA
+      - name: STATA
         description: ''
         percent: 100
         icon: devicon/stata
