@@ -40,10 +40,10 @@ profiles:
     url: linkedin.com/in/iakovos-m-862375150
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD in Politics
+    institution: University of Strathclyde
+    date_start: 
+    date_end: 2025-04-10
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
