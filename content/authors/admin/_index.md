@@ -112,22 +112,22 @@ skills:
         description: ''
         percent: 40
         icon: devicon/pytorch
-  - name: Languages
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Greek
-        description: ''
-        percent: 100
-        icon: Greece
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera 
+  #- name: Languages
+   # color: '#eeac02'
+   # color_border: '#f0bf23'
+   # items:
+    #  - name: Greek
+    #    description: ''
+    #    percent: 100
+    #    icon: Greece
+    #  - name: Cats
+    #    description: ''
+    #    percent: 100
+    #    icon: cat
+    #  - name: Photography
+    #    description: ''
+    #    percent: 80
+    #    icon: camera 
 
 languages:
   - name: Greek
