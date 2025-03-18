@@ -98,7 +98,7 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: Statistical and Computer Skills
     items:
       - name: Python
         description: ''
