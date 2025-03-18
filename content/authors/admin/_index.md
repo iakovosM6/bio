@@ -112,22 +112,22 @@ skills:
         description: ''
         percent: 40
         icon: devicon/pytorch
-  - name: Hobbies
+  - name: Languages
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Greek
         description: ''
-        percent: 60
-        icon: person-simple-walk
+        percent: 100
+        icon: Greece
       - name: Cats
-        description: ''
+       description: ''
         percent: 100
         icon: cat
       - name: Photography
         description: ''
         percent: 80
-        icon: camera
+        icon: camera 
 
 languages:
   - name: Greek
