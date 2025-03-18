@@ -25,24 +25,24 @@ sections:
       biography:
         # Customize the style of your biography text
         style: 'text-align: justify; font-size: 0.8em;'
-  - block: experience
-    content:
-      username: admin
-    design:
+  #- block: experience
+ #   content:
+ #     username: admin
+  #  design:
       # Hugo date format
-      date_format: 'January 2006'
+  #    date_format: 'January 2006'
       # Education or Experience section first?
-      is_education_first: false
-  - block: skills
-    content:
-      title: Statistical and Computer Skills
+  #    is_education_first: false
+ # - block: skills
+  #  content:
+  #   title: Statistical and Computer Skills
       username: admin
-  - block: awards
+  - block: upcoming events
     content:
-      title: Awards
+      title: Upcoming Events
       username: admin
-  - block: languages
-    content:
-      title: Languages
-      username: admin
+  # - block: languages
+   # content:
+   #   title: Languages
+   #   username: admin
 ---
