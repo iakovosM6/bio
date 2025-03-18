@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 
+title: Ph.D.
 
 # Name pronunciation (optional)
 name_pronunciation: Iakovos Makropoulos
@@ -32,12 +32,12 @@ profiles:
     label: E-mail Me
   - icon: brands/x
     url: https://x.com/IAMakropoulos  
-  - icon: brands/github
+  - icon: brands/bluesky
+    url: https://bsky.app/profile/makropoulos.bsky.social
+    - icon: brands/github
     url: https://github.com/iakovosM6
   - icon: brands/linkedin
     url: linkedin.com/in/iakovos-m-862375150
-  - icon: brands/bluesky
-    url: https://bsky.app/profile/makropoulos.bsky.social
 
 education:
   - area: PhD Artificial Intelligence
