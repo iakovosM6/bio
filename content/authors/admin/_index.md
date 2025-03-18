@@ -34,7 +34,7 @@ profiles:
     url: https://x.com/IAMakropoulos  
   - icon: brands/bluesky
     url: https://bsky.app/profile/makropoulos.bsky.social
-    - icon: brands/github
+  - icon: brands/github
     url: https://github.com/iakovosM6
   - icon: brands/linkedin
     url: linkedin.com/in/iakovos-m-862375150
