@@ -37,7 +37,7 @@ sections:
   #  content:
   #   title: Statistical and Computer Skills
       username: admin
-  - block: upcoming events
+  - block: events
     content:
       title: Upcoming Events
       username: admin
