@@ -36,11 +36,11 @@ sections:
  # - block: skills
   #  content:
   #   title: Statistical and Computer Skills
-      username: admin
-  - block: events
-    content:
-      title: Upcoming Events
-      username: admin
+  #    username: admin
+  #- block: events
+  #  content:
+  #    title: Upcoming Events
+  #    username: admin
   # - block: languages
    # content:
    #   title: Languages
