@@ -179,4 +179,12 @@ events:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-I am currently a Postdoctoral Research Assistant on the Response to Violence Against Women Mayors in the United States project, funded by the Bloomberg Center at Harvard. 
+Welcome! I am currently a Postdoctoral Research Assistant for the [Response to Violence Against Women Mayors in the United States](https://cities.harvard.edu/news/new-research-aims-to-develop-insights-on-violence-against-women-leaders/) project, funded by the Bloomberg Center at Harvard. Prior to this, I was a Visiting Lecturer in Political Behaviour and Quantitative Methods in the Department of Government at the University of Essex (2022-2023) and a Pre-doctoral Research Assistant for the [Representative Audit of Britain](https://gtr.ukri.org/projects?ref=ES%2FL016508%2F1) project at the University of Strathclyde (2020-2021). 
+
+I am about to receive a Ph.D. in Politics from the University of Strathclyde (expected Spring 2025), supervised by [Dr. Wolfgang Rüdig](https://www.strath.ac.uk/staff/r%C3%BCdigwolfgangdr/) and [Dr. Zachary Greene](https://www.strath.ac.uk/staff/greenezacharydr/). My thesis focuses on the career structure of election candidates, addressing questions such as: Are young careerist politicians really out of touch with voters? How do distinct career types of politicians affect the level of congruence between parties and the electorate? My thesis comprises three research papers using comparative data mainly from the Comparative Candidates Survey (CCS) and the Comparative Study of Electoral Systems (CSES). 
+
+Methodologically, I employ quantitative methods to address my research questions, with expertise in Causal Inference, Multilevel Modelling, Structural Equation Modelling (SEM), and Quantitative Text Analysis. I also specialize in MrP (Multilevel Regression with Poststratification), a method for generating public opinion estimates in small territories with limited demographic data. 
+
+My research work has been published in international peer-reviewed journals such as the European Journal of Political Research, Party Politics, European Political Science Review, and the Journal of Election, Public Opinion and Parties.
+
+
