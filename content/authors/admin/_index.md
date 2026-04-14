@@ -28,7 +28,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:i.makropoulos@qmul.ac.uk'
+    url: 'mailto:iakovos.makropoulos@strath.ac.uk'
     label: E-mail Me
   - icon: brands/x
     url: https://x.com/IAMakropoulos  
@@ -40,7 +40,7 @@ profiles:
     url: linkedin.com/in/iakovos-m-862375150
 
 education:
-  - area: Ph.D. in Politics, 2025 (expected)
+  - area: Ph.D. in Politics, 2025
     institution: University of Strathclyde
     date_start: 
     date_end: 
