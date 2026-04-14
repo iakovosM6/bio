@@ -17,12 +17,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Research Assistant
+role: ESRC Impact Champion
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Queen Mary University of London
-    url: https://www.qmul.ac.uk/
+  - name: University of Strathclyde 
+    url: https://www.strath.ac.uk
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
