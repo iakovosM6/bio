@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: ESRC Impact Champion
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -179,7 +179,7 @@ events:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-Welcome! I am currently an ESRC Impact Champion on the _Tackling Electoral Violence in Britain_ project at the University of Strathclyde, where I study how violence, intimidation, and abuse can affect elections and political life in Britain. Previously, I worked as a Postdoctoral Research Assistant for the [Response to Violence Against Women Mayors in the United States](https://cities.harvard.edu/news/new-research-aims-to-develop-insights-on-violence-against-women-leaders/) project, funded by the Bloomberg Center at Harvard. Prior to this, I was a fixed-term Lecturer in Political Behaviour and Quantitative Methods in the Department of Government at the University of Essex (2022-2023) and a Pre-doctoral Research Assistant for the [Representative Audit of Britain](https://gtr.ukri.org/projects?ref=ES%2FL016508%2F1) project at the University of Strathclyde (2020-2021). 
+Welcome! I am a Postdoctoral Researcher at the University of Strathclyde, working on the [Politicians, Policies, and the Reproduction of Wealth](https://inq-dp.eu/index.php/research/politicians-and-wealth/) project, led by Dr Despina Alexiadou and funded by the Volkswagen Foundation. Before this, I was an ESRC Impact Champion on the _Tackling Electoral Violence in Britain_ project at the University of Strathclyde, studying how violence, intimidation, and abuse affect elections and political life in Britain. I also worked as a Postdoctoral Research Assistant on the [Response to Violence Against Women Mayors in the United States](https://cities.harvard.edu/news/new-research-aims-to-develop-insights-on-violence-against-women-leaders/) project, funded by the Bloomberg Center for Cities at Harvard. Earlier in my career, I was a fixed-term Lecturer in Political Behaviour and Quantitative Methods in the Department of Government at the University of Essex (2022–2023), and a Pre-doctoral Research Assistant on the [Representative Audit of Britain](https://gtr.ukri.org/projects?ref=ES%2FL016508%2F1) project at the University of Strathclyde (2020–2021).
 
 My research focuses on political behaviour, elections, public opinion, representation, and comparative politics. I am particularly interested in how candidates and voters behave, how political careers develop, how political divisions grow, and how violence and harassment can shape participation in politics.
 
